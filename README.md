@@ -4,6 +4,8 @@
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="">John Eleanor</a></b>.
     <br>am From Thailand<br>
+   <p>𝑰 𝒌𝒏𝒐𝒘 𝑰'𝒎 𝒏𝒐𝒕 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕
+𝑩𝒖𝒕 𝑰'𝒎 𝒕𝒓𝒚𝒊𝒏𝒈 𝒎𝒚 𝒃𝒆𝒔𝒕</p>
 
 </samp>
 
