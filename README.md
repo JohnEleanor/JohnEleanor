@@ -1,4 +1,5 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif"/>
+thx pic from azael-dev
 <p align="center">
   <br>
   <samp>
