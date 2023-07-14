@@ -1,4 +1,4 @@
- [![Matrix SVG][(https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500" height="320" max-width="500" max-height="320" />
 <p align="center">
   <br>
   <samp>
