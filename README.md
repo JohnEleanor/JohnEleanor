@@ -1,3 +1,4 @@
+<img align="center" alt="thx pic from azael-dev" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif"/>
 Hi 👋 My name is Choritos but you can call me J
 ===============================================
 
