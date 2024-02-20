@@ -17,3 +17,4 @@ I’m currently study at KMUTNB University.
 <b>My GitHub Stats</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnEleanor&theme=ambient_gradient&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEleanor&hide_progress=true)
