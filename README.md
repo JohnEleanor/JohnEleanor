@@ -16,5 +16,9 @@ I’m currently study at KMUTNB University.
 
 <b>My GitHub Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnEleanor&theme=ambient_gradient&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEleanor&hide_progress=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JohnEleanor" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnEleanor&layout=compact&langs_count=8&card_width=320" />
+</a>
