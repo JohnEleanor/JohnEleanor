@@ -8,7 +8,7 @@ I’m currently study at KMUTNB University.
 * 🌍  I'm based in Thailand Rangsit
 * ✉️  You can contact me at [ucxllmegenius.2003@gmail.com](mailto:ucxllmegenius.2003@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 ### Socials
