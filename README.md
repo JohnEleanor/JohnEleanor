@@ -7,7 +7,7 @@ I’m currently study at KMUTNB University.
 
 * 🌍  I'm Live in Thailand Rangsit
 * ✉️  You can contact me at [ucxllmegenius.2003@gmail.com](mailto:ucxllmegenius.2003@gmail.com)
-<p>My Skill</p>
+<p><h3>My Skill</h3></p>
 <p align="center">
   
   <a href="https://skillicons.dev">
