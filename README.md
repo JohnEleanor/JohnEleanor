@@ -7,8 +7,11 @@ I’m currently study at KMUTNB University.
 
 * 🌍  I'm Live in Thailand Rangsit
 * ✉️  You can contact me at [ucxllmegenius.2003@gmail.com](mailto:ucxllmegenius.2003@gmail.com)
+
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,figma,git,github,java,lua,mongodb,py)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,cpp,figma,git,github,java,lua,mongodb,py)" />
+  </a>
 </p>
 
 <b>My GitHub Stats</b>
