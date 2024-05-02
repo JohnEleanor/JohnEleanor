@@ -1,6 +1,5 @@
 
 <h1 align="center"> Hi 👋 My name is Choritos but you can call me J </h1> <br>
-===============================================
 
 I’m currently study at KMUTNB University.
 -----------------------------------------
