@@ -18,5 +18,5 @@ I’m currently study at KMUTNB University.
   <p><img align="left" height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Johneleanor" /></p>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <p><img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Johneleanor&layout=compact&langs_count=8&card_width=320" /></p>
+  <p><img align="left" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Johneleanor&layout=compact&langs_count=8&card_width=320" /></p>
 </a>
