@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Choritos but you can call me J <br>
+<h1 align="center"> Hi 👋 My name is Choritos but you can call me J </h1> <br>
 ===============================================
 
 I’m currently study at KMUTNB University.
@@ -15,8 +15,13 @@ I’m currently study at KMUTNB University.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnEleanor&repo=github-readme-stats" />
+  <p><img align="left" height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=JohnEleanor" /></p>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnEleanor&repo=convoychat" />
+  <p><img align="left" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnEleanor&layout=compact&langs_count=8&card_width=320" /></p>
 </a>
+
+**Github Theme Credit**
+[ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
+
+
