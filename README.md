@@ -19,7 +19,7 @@ I’m currently study at **KMUTNB University**.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnEleanor&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical""  /></p>
 
-<p align="right>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnEleanor&show_icons=true&locale=en&show_icons=true&theme=radical"" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnEleanor&show_icons=true&locale=en&show_icons=true&theme=radical"" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=JohnEleanor&show_icons=true&theme=radical""/></p>
 
