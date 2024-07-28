@@ -12,6 +12,7 @@ I’m currently study at **KMUTNB University**.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma,git,github" />
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,lua,mongodb,py,php,react,express" />
   </a>
