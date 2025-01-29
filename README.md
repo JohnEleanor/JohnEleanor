@@ -14,7 +14,7 @@ I’m currently study at **KMUTNB University**.
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,lua,mongodb,py,php,react,express,fastapi,nextjs" />
+    <img src="https://skillicons.dev/icons?i=java,lua,mongodb,py,php,react,express,fastapi,nextjs,flutter" />
   </a>
 </p>
 
