@@ -10,7 +10,7 @@ I’m currently study at **KMUTNB University**.
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma,git,github,mysql,postman,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma,git,github,mysql,postman,tailwind,ts" />
   </a>
   <br>
   <a href="https://skillicons.dev">
