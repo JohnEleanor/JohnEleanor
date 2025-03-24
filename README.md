@@ -10,11 +10,11 @@ I’m currently study at **KMUTNB University**.
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma,git,github,mysql,postman,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma,git,github,mysql,postman,tailwind,ts,vscode" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,lua,mongodb,py,php,react,express,fastapi,nextjs,flutter" />
+    <img src="https://skillicons.dev/icons?i=java,lua,mongodb,py,php,react,express,fastapi,nextjs,flutter,arduino,dart,linux,vite" />
   </a>
 </p>
 
