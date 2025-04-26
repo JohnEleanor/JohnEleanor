@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi 👋 My name is Choritos but you can call me J </h1> <br>
+<h1 align="center"> Hi 👋 My name is Choritos but you can call me Jay </h1> <br>
 
 I’m currently study at **KMUTNB University**.
 -----------------------------------------
