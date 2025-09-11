@@ -8,43 +8,28 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 💼 Fresh graduate looking to grow as a **Web Developer / Software Engineer**
-- 🌱 Currently learning **Next.js, Docker, and Smart IoT Solutions**
+## 🛠️ My Skillset
 
----
-
-## 🎨 My Skillset
+### 📝 Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,cpp,lua,dart" />
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=express,fastapi,php,java,lua,py" />
-</p>
+<img src="https://skillicons.dev/icons?i=express,fastapi" />
 
 ### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 ### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker,linux,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker,linux,figma" />
 
 ### 🤖 IoT & Automation
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,selenium,cpp" />
-</p>
+<img src="https://skillicons.dev/icons?i=arduino,selenium" />
 
 ---
 
