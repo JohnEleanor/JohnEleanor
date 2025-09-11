@@ -11,7 +11,6 @@
 ## 🧑‍💻 About Me
 - 💼 Fresh graduate looking to grow as a **Web Developer / Software Engineer**
 - 🌱 Currently learning **Next.js, Docker, and Smart IoT Solutions**
-- ⚡ Fun fact: I love to **build creative projects** that solve real-world problems
 
 ---
 
@@ -72,9 +71,7 @@
   <img src="https://komarev.com/ghpvc/?username=JohnEleanor&color=ff69b4&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+
 
 ---
 
