@@ -11,10 +11,10 @@
 ## 🛠️ My Skillset
 
 ### 📝 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,cpp,lua,dart" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,cpp,lua,dart,html,css," />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=express,fastapi" />
@@ -26,10 +26,10 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker,linux,figma,vite,notion" />
 
-### 🤖 IoT & Automation
-<img src="https://skillicons.dev/icons?i=arduino,selenium" />
+### 🤖 Other
+<img src="https://skillicons.dev/icons?i=arduino,selenium,opencv,pytorch,qt" />
 
 ---
 
