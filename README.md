@@ -11,13 +11,13 @@
 ## 🛠️ My Skillset
 
 ### 📝 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,cpp,lua,dart,html,css," />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,php,cpp,lua,dart,html,css,js,ts&perline=5" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,materialui,shadcn" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=express,fastapi" />
+<img src="https://skillicons.dev/icons?i=express,fastapi,flask" />
 
 ### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
