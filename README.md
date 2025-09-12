@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker,linux,figma,vite,notion" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker,linux,figma,vite,notion&perline=5" />
 
 ### 🤖 Other
 <img src="https://skillicons.dev/icons?i=arduino,selenium,opencv,pytorch,qt" />
