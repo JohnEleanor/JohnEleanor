@@ -13,11 +13,10 @@
 ### 📝 Programming Languages
 <img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,php,cpp,lua,dart,html,css,js,ts&perline=5" />
 
-### 🎨 Frontend
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,materialui,shadcn" />
+### 🎨 Tech Stack
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,materialui,shadcn,vuejs,nuxtjs,express,fastapi,flask&perline=5" />
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=express,fastapi,flask" />
+
 
 ### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
