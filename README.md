@@ -4,9 +4,11 @@
   🎓 Graduated from <b>KMUTNB University</b> <br>
   🌍 Based in <b>Rangsit, Thailand</b> <br>
   ✉️ Reach me at: <a href="mailto:ucxllmegenius.2003@gmail.com">ucxllmegenius.2003@gmail.com</a>
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300">
 </p>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300">
 
+</div>
 ---
 
 ## 🛠️ My Skillset
@@ -55,6 +57,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JohnEleanor&color=ff69b4&style=for-the-badge" alt="Profile views"/>
 </p>
+
+
 
 
 
