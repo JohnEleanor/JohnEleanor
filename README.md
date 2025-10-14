@@ -1,9 +1,10 @@
-<h1 align="center"> Hi 👋, My name is Choritos but you can call me Jay </h1>
+<h1 align="center"> Hi 👋, My name is Choritos but you can call me Jay am 22 yo </h1>
 
 <p align="center">
   🎓 Graduated from <b>KMUTNB University</b> <br>
   🌍 Based in <b>Rangsit, Thailand</b> <br>
   ✉️ Reach me at: <a href="mailto:ucxllmegenius.2003@gmail.com">ucxllmegenius.2003@gmail.com</a>
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300">
 </p>
 
 ---
