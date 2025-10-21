@@ -25,10 +25,10 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,postgresql,prisma" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker,linux,figma,vite,notion&perline=5" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,vercel,docker,linux,figma,vite,notion,railway,supabase,virtualbox,visualstudio,vitest&perline=5" />
 
 ### 🤖 Other
 <img src="https://skillicons.dev/icons?i=arduino,selenium,opencv,pytorch,qt" />
